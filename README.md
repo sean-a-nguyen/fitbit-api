@@ -15,8 +15,13 @@ The overall goal of this analysis is to:
 2. Graph and depict statistical graphs
 3. Undercover any underlying trends/insights (Am I getting enough sleep? activity?)
 
+## Overview of files
+1. [Accessing the API and Exporting the Data Template](https://github.com/sean-a-nguyen/fitbit-api/blob/main/Accessing%20the%20API%20and%20Exporting%20the%20Data%20Template.ipynb) - Shows how I accessed the API and exported the data in .JSON.
+2. [Gathering the Data From the Exported JSON File](https://github.com/sean-a-nguyen/fitbit-api/blob/main/Gathering%20the%20Data%20From%20the%20Exported%20JSON%20File.ipynb) - Shows how I parsed the data to make it easier to analyze.
+3. [Exploratory Data Analysis](https://github.com/sean-a-nguyen/fitbit-api/blob/main/Exploratory%20Data%20Analysis.ipynb) - Shows the visualizations of the data and reports findings and insights.  
+
 ## References
-1. API Documentation - https://dev.fitbit.com/build/reference/web-api/#:~:text=Fitbit%20provides%20a%20Web%20API,Fitbit%20Platform%20Terms%20of%20Service
-2. List of different endpoints - https://dev.fitbit.com/build/reference/web-api/explore/
-3. How to Access the API - https://www.youtube.com/watch?v=Ligsao33b94
-4. Inspiration/Example- https://jessierayebauer.wixsite.com/jrbauer/single-post/2018/01/27/Tutorial-Explore-Your-Own-Fitbit-Data
+1. [FitBit API Documentation](https://dev.fitbit.com/build/reference/web-api/#:~:text=Fitbit%20provides%20a%20Web%20API,Fitbit%20Platform%20Terms%20of%20Service)
+2. [List of different endpoints](https://dev.fitbit.com/build/reference/web-api/explore/)
+3. [How to Access the API](https://www.youtube.com/watch?v=Ligsao33b94)
+4. [Inspiration/Example](https://jessierayebauer.wixsite.com/jrbauer/single-post/2018/01/27/Tutorial-Explore-Your-Own-Fitbit-Data)
