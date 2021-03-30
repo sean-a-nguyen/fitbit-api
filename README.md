@@ -1,5 +1,8 @@
 # fitbit-api
 
+![fitbit-logo](https://user-images.githubusercontent.com/69729732/112956660-8bb1ba80-90f5-11eb-8b9e-12b99eca5e92.png)
+
+
 ## What is an API? 
 According to the Google definition, an API stands for an application programming interface in which it is a computing interface that allows users to interact between multiple software applications and gather information/data from it. A great analogy is when you go to a restaurant and order food with a waiter. You take a look through the menu and decide what to order. To put in the order, you tell your waiter what you would like to eat. The waiter then takes your order to the kitchen and the chef will cook whatever you ordered. The server will then bring the food out to you and now you can eat!
 
